@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;  
 }  
 body {  
-    background-color: #1d2b4d;  
+    background-color: #1d2b4d !important;  
     
 }  
 .social-icons { 
