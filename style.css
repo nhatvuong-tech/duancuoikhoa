@@ -47,7 +47,7 @@ body {
 }
 .background {  
     min-height: 100vh;  
-    background-image: url("../asset/img/hero-bg.jpg");  
+    background-image: url("asset/img/hero-bg.jpg");  
     background-size: cover;  
     background-position: center;  
     background-repeat: no-repeat;  
@@ -248,7 +248,7 @@ body {
     padding: 30px; 
 }  
 .course_container { 
-    background-image: url(../asset/img/education.jpg); 
+    background-image: url(asset/img/education.jpg); 
     border-radius: 45px; 
     padding: 15px; 
     width: 66%; 
@@ -291,7 +291,7 @@ body {
 }
 .vuongogiua1 {
     margin-top: 100px; 
-    background-image: url(../asset/img/login-bg.jpg); 
+    background-image: url(asset/img/login-bg.jpg); 
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -494,7 +494,7 @@ border-right: 1px solid black;
 /*LOGIN PAGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE*/
 
 .login-page {
-    background-image: url(../asset/img/logingr.avif);
+    background-image: url(asset/img/logingr.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -507,7 +507,7 @@ border-right: 1px solid black;
     content: "";
     position: fixed;
     inset: 0;
-    background-image: url(../asset/img/logingr.avif);
+    background-image: url(asset/img/logingr.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
